@@ -1,2 +1,2 @@
 # daftar
-Sistem Informasi Daftar Online Jadwal Dokter
+Sistem Informasi Daftar Pasien Baru
