@@ -1,2 +1,5 @@
 # daftar
-Sistem Informasi Daftar Pasien Baru
+Sistem Informasi Manajemen Rumah Sakit SIMETRIS.
+Modul Pendaftaran Pasien Baru.
+Pemrograman PHP Native.
+
